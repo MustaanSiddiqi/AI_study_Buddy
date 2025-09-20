@@ -1,0 +1,9 @@
+ai-study-buddy/
+│
+├── app.py                 # Streamlit app (main code)
+├── requirements.txt       # Dependencies
+├── README.md              # Documentation
+├── prompts.py             # Prompt templates for AI
+├── utils.py               # Helper functions
+└── data/
+    └── saved_flashcards.json   # Local storage for saved flashcards
